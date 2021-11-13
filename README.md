@@ -8,7 +8,7 @@ This repo contains the code and relevant explanation of the simple udp chat appl
 4. Run the server code first and you can observe the port 2020 open in the console.
 5. After the server is started, Run the client code and enter the ip address, it is local i,e 127.0.0.1 by default.
 
-![Screenshot]()
+![Screenshot](https://github.com/Stanley-Sujith-Nelavala/UDP-Chat-app/blob/main/gh.png)
 
 ## Wireshark Analysis 
 'loading..'
