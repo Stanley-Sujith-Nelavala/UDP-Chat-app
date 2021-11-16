@@ -11,7 +11,19 @@ This repo contains the code and relevant explanation of the simple udp chat appl
 ![Screenshot](https://github.com/Stanley-Sujith-Nelavala/UDP-Chat-app/blob/main/gh.png)
 
 ## Wireshark Analysis 
-'loading..'
+The analysis of the the following chat by two clients in thew server is analysed using the wireshark tool.
+![Chat](https://github.com/Stanley-Sujith-Nelavala/UDP-Chat-app/blob/main/Screenshot%20(9).png)
+ 
+ since this is the udp we can not clearly see the establishment of the connection, and due to lack to encryption we will be able to read the message in that chat from the captured packets directly without any decoding
+ 
+ First message: Hey this is stanley
+ 
+ ![First message](https://github.com/Stanley-Sujith-Nelavala/UDP-Chat-app/blob/main/Screenshot%20(7).png)
+ 
+ reply from the other client: this is sanjay
+ 
+ ![reply message](https://github.com/Stanley-Sujith-Nelavala/UDP-Chat-app/blob/main/Screenshot%20(8).png)
+
 
 ## Cisco Packet Tracer Simulation
 'loading..'
