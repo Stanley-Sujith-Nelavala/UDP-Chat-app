@@ -24,6 +24,7 @@ The analysis of the the following chat by two clients in thew server is analysed
  
  ![reply message](https://github.com/Stanley-Sujith-Nelavala/UDP-Chat-app/blob/main/Screenshot%20(8).png)
 
+ All the packets captured from the previous conversation are in the pcapng file.
 
 ## Cisco Packet Tracer Simulation
 'loading..'
