@@ -26,8 +26,6 @@ The analysis of the the following chat by two clients in thew server is analysed
 
  All the packets captured from the previous conversation are in the pcapng file.
 
-## Cisco Packet Tracer Simulation
-'loading..'
 
 ## Contributors
 1. Vidya Sri Gummadi [coe19b040@iiitdm.ac.in](coe19b040@iiitdm.ac.in)
